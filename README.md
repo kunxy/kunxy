@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm kun</h1>
 <h3 align="center">Long-termism Practitioner</h3>
-<br>
-<b>| 读书 | 健身 | 投资 | 帮朋友 | 陪家人 |</b>
 
-<br><br>
-以终为始地思考，培养长期价值观、长期方法论和长期主义人生观；<br>
-经营好自己的现在，等待未来向我飞奔而来。
+<h3 align="center"><b>| 读书 | 健身 | 投资 | 帮朋友 | 陪家人 |</b> </h3>
+
+<br>
+<h3 align="center">以终为始地思考，培养长期价值观、长期方法论和长期主义人生观；<br>
+经营好自己的现在，等待未来向我飞奔而来。</h3>
 <br><br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kunx&show_icons=true&theme=dark&count_private=true)
